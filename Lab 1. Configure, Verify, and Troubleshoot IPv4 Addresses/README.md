@@ -39,11 +39,11 @@ Use the appropriate `show` commands to verify:
 
 ## Files
 - [Topology screenshot](topology.png)
-- [PNETLab file](lab.unl)
+- [PNETLab file](lab1-ipv4-addresses-pnetlab.zip)
 - [Configs](configs/)
-  - [R1](configs/R1.txt)
-  - [R3](configs/R3.txt)
+  - [R1](configs/R1.cfg)
+  - [R3](configs/R3.cfg)
 
 ## Status
-🔲 In Progress
+✅ Done
 
